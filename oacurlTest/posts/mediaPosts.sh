@@ -40,7 +40,7 @@ echo \
     </activity:object>
   </entry>' \
   | oacurl -X POST "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&preview=true" \
-  | oacurl -X POST "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true" | tee `dirname $0`/file.txt >> something.txt
+  | oacurl -X POST "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true" > `dirname $0`/file.txt >> something.txt
 
 didThisFail
 passATOM 
@@ -58,7 +58,7 @@ echo \
       }
     }
    }' > /tmp/post.json && \
-   oacurl -R ~/Documents/uTest/buzzAPI/oacurlTest/posts/picone.png -R "/tmp/post.json;application/json" "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&alt=json" | tee `dirname $0`/file.txt >> something.txt
+   oacurl -R ~/Documents/uTest/buzzAPI/oacurlTest/posts/picone.png -R "/tmp/post.json;application/json" "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&alt=json" > `dirname $0`/file.txt >> something.txt
 didThisFail 
 passJSON 
 
@@ -87,7 +87,7 @@ echo \
     }
    }' \
   | oacurl -t JSON -X POST "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&preview=true&alt=json" \
-  | oacurl -t JSON -X POST "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&alt=json" >> `dirname $0`/| tee `dirname $0`/file.txt >> something.txt
+  | oacurl -t JSON -X POST "https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&alt=json" > `dirname $0`/| tee `dirname $0`/file.txt >> something.txt
 didThisFail 
 passJSON
 echo "Creating a Post with multiple image attachments via JSON,String too long,$PASSFAIL,$PASSFAILJSON" >> CSVResults.csv

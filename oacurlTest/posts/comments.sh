@@ -19,7 +19,7 @@ echo "creating an ATOM comment,Too Long of a string,$PASSFAIL,$PASSFAILATOM" >> 
 
 sleep 3
 
-oacurl -X DELETE "https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/tag%3Agoogle.com%2C2010%3Abuzz%3Az12ltdq4bky1tzw5004cftt4msq3y3kj144/@comments/tag%3Agoogle.com%2C2010%3Abuzz-comment%3Az12ltdq4bky1tzw5004cftt4msq3y3kj144%3A1273777322692000" >> `dirname $0`/file.txt >> something.txt
+oacurl -X DELETE "https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/tag%3Agoogle.com%2C2010%3Abuzz%3Az12ltdq4bky1tzw5004cftt4msq3y3kj144/@comments/tag%3Agoogle.com%2C2010%3Abuzz-comment%3Az12ltdq4bky1tzw5004cftt4msq3y3kj144%3A1273777322692000" > `dirname $0`/file.txt >> something.txt
 
 didThisFail
 passATOM 

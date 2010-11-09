@@ -168,3 +168,19 @@ User Stream JSON,https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@sel
 User Stream JSON,https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@public?prettyprint=true&alt=json,Passed,Passed JSON
 User Stream JSON,https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@liked?prettyprint=true&alt=json,Passed,Passed JSON
 User Stream JSON,https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@comments?prettyprint=true&alt=json,Passed,Passed JSON
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/@me/@self?prettyprint=true,Passed,Passed ATOM
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/sami.shalabi/@self?prettyprint=true,Passed,Passed ATOM
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/sami.shalabi/@groups/@followers?prettyprint=true,Passed,Passed ATOM
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/sami.shalabi/@groups/@following?prettyprint=true,Passed,Passed ATOM
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked?prettyprint=true,Passed,Passed ATOM
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/search?prettyprint=true&q=Buzz,Passed,Passed ATOM
+People Strings ATOM,https://www.googleapis.com/buzz/v1/people/@me/@groups?prettyprint=true,Passed,Passed ATOM
+Following Sami Shalabi ATOM,https://www.googleapis.com/buzz/v1/people/@me/@groups/@following/sami.shalabi?prettyprint=true,Passed,Passed ATOM
+unfollow sami shalabi atom, https://www.googleapis.com/buzz/v1/people/@me/@groups/@following/sami.shalabi?prettyprint=true,Passed,Passed ATOM
+blocked sami shalabi atom,https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked/sami.shalabi?prettyprint=true,Passed,Passed ATOM
+unblocked poor sami atom,https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked/sami.shalabi?prettyprint=true,Passed,Passed ATOM
+People Strings JSON,https://www.googleapis.com/buzz/v1/people/@me/@self?prettyprint=true&alt=json,Passed,Passed JSON
+People Strings JSON,https://www.googleapis.com/buzz/v1/people/sami.shalabi/@self?prettyprint=true&alt=json,Passed,Passed JSON
+Following Sami Shalabi,https://www.googleapis.com/buzz/v1/people/@me/@groups/@following/sami.shalabi?prettyprint=true&alt=json,Passed,Passed JSON
+unfollow sami shalabi json, https://www.googleapis.com/buzz/v1/people/@me/@groups/@following/sami.shalabi?prettyprint=true,Passed,Passed JSON
+blocked sami shalabi json,https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked/sami.shalabi?prettyprint=true&alt=json,Passed,
