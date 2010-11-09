@@ -1,0 +1,548 @@
+{
+ "data": {
+  "kind": "buzz#activityFeed",
+  "links": {
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@comments?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  },
+  "title": "Google Buzz Liked Feed for Sami Shalabi",
+  "updated": "2010-07-18T15:56:38.871Z",
+  "id": "tag:google.com,2010:buzz-feed:commented:posted:103059238641169868733",
+  "items": [
+   {
+    "kind": "buzz#activity",
+    "title": "phopkins: Joined Google right out of school. After 5 years, today's my last day. So happy for the...",
+    "published": "2010-07-16T21:26:52.000Z",
+    "updated": "2010-07-16T21:26:52.000Z",
+    "id": "tag:google.com,2010:buzz:z13cfjxb4mbywvdjr04ccdxhjsjvwvyjeqo0k",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/117577660873767571057/@self/B:z13cfjxb4mbywvdjr04ccdxhjsjvwvyjeqo0k/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 0
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/117577660873767571057/iN4UKVCKoV1",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/117577660873767571057/@self/B:z13cfjxb4mbywvdjr04ccdxhjsjvwvyjeqo0k/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 2,
+       "updated": "2010-07-18T15:56:38.871Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/117577660873767571057/@self/B:z13cfjxb4mbywvdjr04ccdxhjsjvwvyjeqo0k?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "117577660873767571057",
+     "name": "Pete Hopkins",
+     "profileUrl": "http://www.google.com/profiles/phopkins",
+     "thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABECPGcy9nyrZn48wEiC3ZjYXJkX3Bob3RvKihkNjdmMjAwZDUwMTk3NmRhYWY1ODY2YmQ2NjVhYTk2NTk2OWVkNGRjMAFDvxtu7p-qnSfuTs-dXpO5SH4fLA"
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "\u003ca href\u003d\"http://twitter.com/phopkins\"\u003ephopkins\u003c/a\u003e: Joined Google right out of school. After 5 years, today&#39;s my last day. So happy for the knowledge and experience. Just time to move on.",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/117577660873767571057/iN4UKVCKoV1",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/phopkins/statuses/18716808797",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#activity",
+    "title": "habibh: Boston PD, why do you love me so much!!! grrrrr ... #flist http://twitpic.com/1gfixy",
+    "published": "2010-04-18T02:06:20.000Z",
+    "updated": "2010-04-18T02:06:20.000Z",
+    "id": "tag:google.com,2010:buzz:z13chblx5kuesjnuk23zxdvril22gb5ak04",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/111682807137471681094/@self/B:z13chblx5kuesjnuk23zxdvril22gb5ak04/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 0
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/111682807137471681094/EV6LJo5kBc3",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/111682807137471681094/@self/B:z13chblx5kuesjnuk23zxdvril22gb5ak04/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 1,
+       "updated": "2010-04-18T17:18:06.179Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/111682807137471681094/@self/B:z13chblx5kuesjnuk23zxdvril22gb5ak04?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "111682807137471681094",
+     "name": "Habib Haddad",
+     "profileUrl": "http://www.google.com/profiles/111682807137471681094",
+     "thumbnailUrl": ""
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "\u003ca href\u003d\"http://twitter.com/habibh\"\u003ehabibh\u003c/a\u003e: Boston PD, why do you love me so much!!! grrrrr ... \u003ca href\u003d\"http://www.google.com/search?tbo\u003d1&amp;tbs\u003dmbl:1&amp;q\u003d%23flist\"\u003e#flist\u003c/a\u003e  \u003ca href\u003d\"http://twitpic.com/1gfixy\" \u003ehttp://twitpic.com/1gfixy\u003c/a\u003e",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/111682807137471681094/EV6LJo5kBc3",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/habibh/statuses/12373301769",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#activity",
+    "title": "Buzz Buttons Launched! Go TEAM!!!",
+    "published": "2010-04-13T17:08:27.000Z",
+    "updated": "2010-04-13T17:08:28.063Z",
+    "id": "tag:google.com,2010:buzz:z12ix33qilikvpxdo23nhdqobwnhczpbp04",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12ix33qilikvpxdo23nhdqobwnhczpbp04/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 7
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/103059238641169868733/9rNJDCRfjq6",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12ix33qilikvpxdo23nhdqobwnhczpbp04/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 2,
+       "updated": "2010-04-14T12:43:26.571Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12ix33qilikvpxdo23nhdqobwnhczpbp04?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "103059238641169868733",
+     "name": "Sami Shalabi",
+     "profileUrl": "http://www.google.com/profiles/sami.shalabi",
+     "thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABDCL3P0NDeqqa6KiILdmNhcmRfcGhvdG8qKDY1YTlkYWQzNDAwNjdjMzA0NzMxZTc5MmZjMzFjODQwMDVkMzAwMTEwAUOo4ujWHRWqX_YKKNcddC4w71Rx"
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "Buzz Buttons Launched! Go TEAM!!!",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/103059238641169868733/9rNJDCRfjq6",
+        "type": "text/html"
+       }
+      ]
+     },
+     "attachments": [
+      {
+       "type": "photo",
+       "links": {
+        "preview": [
+         {
+          "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2F3.bp.blogspot.com%2F_JE4qNpFW6Yk%2FS8SN3FIEGQI%2FAAAAAAAAAkQ%2F_2HcYZxaB88%2Flogos.jpg",
+          "type": "image/jpeg"
+         }
+        ],
+        "enclosure": [
+         {
+          "href": "http://3.bp.blogspot.com/_JE4qNpFW6Yk/S8SN3FIEGQI/AAAAAAAAAkQ/_2HcYZxaB88/logos.jpg",
+          "type": "image/jpeg"
+         }
+        ]
+       }
+      },
+      {
+       "type": "photo",
+       "links": {
+        "preview": [
+         {
+          "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2F4.bp.blogspot.com%2F_JE4qNpFW6Yk%2FS8Pybot0l6I%2FAAAAAAAAAkA%2FZE-7MJiXCqs%2Fbuzz_buttons.png",
+          "type": "image/jpeg"
+         }
+        ],
+        "enclosure": [
+         {
+          "href": "http://4.bp.blogspot.com/_JE4qNpFW6Yk/S8Pybot0l6I/AAAAAAAAAkA/ZE-7MJiXCqs/buzz_buttons.png",
+          "type": "image/jpeg"
+         }
+        ]
+       }
+      },
+      {
+       "type": "article",
+       "title": "Google Buzz buttons - Official Gmail Blog",
+       "links": {
+        "alternate": [
+         {
+          "href": "http://gmailblog.blogspot.com/2010/04/google-buzz-buttons.html",
+          "type": "text/html"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    "source": {
+     "title": "Buzz"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#activity",
+    "title": "RT @YallaStartup: Have you ever wondered how Google prepare for new features ... ? Read insights ...",
+    "published": "2010-03-30T14:51:36.000Z",
+    "updated": "2010-03-30T23:29:19.399Z",
+    "id": "tag:google.com,2010:buzz:z134fh5hwo3iejubs04cihpaukzmhp3yoyo0k",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z134fh5hwo3iejubs04cihpaukzmhp3yoyo0k/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 0
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/103059238641169868733/icpMX8NgRtK",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z134fh5hwo3iejubs04cihpaukzmhp3yoyo0k/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 9,
+       "updated": "2010-03-31T05:46:44.905Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z134fh5hwo3iejubs04cihpaukzmhp3yoyo0k?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "103059238641169868733",
+     "name": "Sami Shalabi",
+     "profileUrl": "http://www.google.com/profiles/sami.shalabi",
+     "thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABDCL3P0NDeqqa6KiILdmNhcmRfcGhvdG8qKDY1YTlkYWQzNDAwNjdjMzA0NzMxZTc5MmZjMzFjODQwMDVkMzAwMTEwAUOo4ujWHRWqX_YKKNcddC4w71Rx"
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "RT @YallaStartup: Have you ever wondered how Google prepare for new features ... ? Read insights from Google Blogger&#39;s PM \u003ca href\u003d\"http://bit.ly/\" \u003ehttp://bit.ly/\u003c/a\u003e ...",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/103059238641169868733/icpMX8NgRtK",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/shalabi/statuses/11311631718",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#activity",
+    "title": "My blog now has a new look. so so overdue - http://bit.ly/9u0gPV",
+    "published": "2010-03-28T02:56:57.000Z",
+    "updated": "2010-03-28T06:31:12.359Z",
+    "id": "tag:google.com,2010:buzz:z12sydvrkxqww1a2t23nhdqobwnhczpbp04",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12sydvrkxqww1a2t23nhdqobwnhczpbp04/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 0
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/103059238641169868733/FvGagiEF4Nc",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12sydvrkxqww1a2t23nhdqobwnhczpbp04/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 5,
+       "updated": "2010-03-29T06:46:31.900Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12sydvrkxqww1a2t23nhdqobwnhczpbp04?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "103059238641169868733",
+     "name": "Sami Shalabi",
+     "profileUrl": "http://www.google.com/profiles/sami.shalabi",
+     "thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABDCL3P0NDeqqa6KiILdmNhcmRfcGhvdG8qKDY1YTlkYWQzNDAwNjdjMzA0NzMxZTc5MmZjMzFjODQwMDVkMzAwMTEwAUOo4ujWHRWqX_YKKNcddC4w71Rx"
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "My blog now has a new look. so so overdue  - \u003ca href\u003d\"http://bit.ly/9u0gPV\" \u003ehttp://bit.ly/9u0gPV\u003c/a\u003e",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/103059238641169868733/FvGagiEF4Nc",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/shalabi/statuses/11175459542",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#activity",
+    "title": "Who else gets annoyed by ppl taking pics of every single move u make, some moments r just meant t...",
+    "published": "2010-03-07T23:53:43.000Z",
+    "updated": "2010-03-08T06:31:44.427Z",
+    "id": "tag:google.com,2010:buzz:z125snpoeqizyt1om04cjzpbixu4cdkwou00k",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/111682807137471681094/@self/B:z125snpoeqizyt1om04cjzpbixu4cdkwou00k/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 0
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/111682807137471681094/RRuJugG2D9L",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/111682807137471681094/@self/B:z125snpoeqizyt1om04cjzpbixu4cdkwou00k/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 2,
+       "updated": "2010-03-08T12:24:22.051Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/111682807137471681094/@self/B:z125snpoeqizyt1om04cjzpbixu4cdkwou00k?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "111682807137471681094",
+     "name": "Habib Haddad",
+     "profileUrl": "http://www.google.com/profiles/111682807137471681094",
+     "thumbnailUrl": ""
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "Who else gets annoyed by ppl taking pics of every single move u make, some moments r just meant to b enjoyed, &amp; not always Kodak material :)",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/111682807137471681094/RRuJugG2D9L",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/habibh/statuses/10142245764",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#activity",
+    "title": "RT @alltop Incredible t-shirt stop-motion video http://tinyurl.com/ybk2hse",
+    "published": "2010-03-06T18:25:15.000Z",
+    "updated": "2010-03-06T18:58:39.862Z",
+    "id": "tag:google.com,2010:buzz:z125s1eibqecefoqd04chnvpspewxlyw0lk0k",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/113044802819714947941/@self/B:z125s1eibqecefoqd04chnvpspewxlyw0lk0k/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 1
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/113044802819714947941/ajBwZNFPEbL",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/113044802819714947941/@self/B:z125s1eibqecefoqd04chnvpspewxlyw0lk0k/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 1,
+       "updated": "2010-03-07T14:37:45.075Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/113044802819714947941/@self/B:z125s1eibqecefoqd04chnvpspewxlyw0lk0k?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "113044802819714947941",
+     "name": "Mohd Khawaja",
+     "profileUrl": "http://www.google.com/profiles/spring2sky",
+     "thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABECOW2_tDN4ZyEtQEiC3ZjYXJkX3Bob3RvKig3ZDcxZmM1OGFhMzk1NzQ4OWU1YzAzOThkYjM1MGZlNjczNWUwOWI1MAFrftr1Zu5M0fYp8PLivCVL7nNxQg"
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "RT @alltop Incredible t-shirt stop-motion video \u003ca href\u003d\"http://tinyurl.com/ybk2hse\" \u003ehttp://tinyurl.com/ybk2hse\u003c/a\u003e",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/113044802819714947941/ajBwZNFPEbL",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/mkhawaja/statuses/10084195474",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}

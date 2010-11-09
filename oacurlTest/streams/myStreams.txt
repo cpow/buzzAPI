@@ -1,0 +1,3 @@
+https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/@me/@public?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/@me/@consumption?prettyprint=true&alt=atom

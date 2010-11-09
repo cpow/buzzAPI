@@ -1,0 +1,3 @@
+https://www.googleapis.com/buzz/v1/activities/@me/@consumption?prettyprint=true&max-comments=10&max-liked=10&alt=json
+https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@self?prettyprint=true&max-comments=10&max-liked=10&alt=json
+https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@public?prettyprint=true&max-comments=10&max-liked=10&alt=json

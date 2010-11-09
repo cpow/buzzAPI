@@ -1,0 +1,4 @@
+https://www.googleapis.com/buzz/v1/activities/googlebuzz/@self/tag:google.com,2010:buzz:z13qhjpy0lvocbrz304cdjyb3mjeulcwv3c?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/googlebuzz/@self/tag:google.com,2010:buzz:z13qhjpy0lvocbrz304cdjyb3mjeulcwv3c/@comments?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/googlebuzz/@self/tag:google.com,2010:buzz:z13qhjpy0lvocbrz304cdjyb3mjeulcwv3c/@liked?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/googlebuzz/@self/tag:google.com,2010:buzz:z13qhjpy0lvocbrz304cdjyb3mjeulcwv3c/@related?prettyprint=true&alt=atom

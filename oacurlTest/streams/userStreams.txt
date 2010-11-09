@@ -1,0 +1,4 @@
+https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@self?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@public?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@liked?prettyprint=true&alt=atom
+https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@comments?prettyprint=true&alt=atom

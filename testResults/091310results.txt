@@ -1,0 +1,356 @@
+******************************************
+Running the People tests for ATOM
+******************************************
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/@me/@self?prettyprint=true
+This passed!! :) on Mon Sep 13 23:31:01 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:03 EDT 2010
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/sami.shalabi/@self?prettyprint=true
+This passed!! :) on Mon Sep 13 23:31:05 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:07 EDT 2010
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/sami.shalabi/@groups/@followers?prettyprint=true
+This passed!! :) on Mon Sep 13 23:31:09 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:11 EDT 2010
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/sami.shalabi/@groups/@following?prettyprint=true
+This passed!! :) on Mon Sep 13 23:31:13 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:15 EDT 2010
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked?prettyprint=true
+This passed!! :) on Mon Sep 13 23:31:17 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:19 EDT 2010
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/search?prettyprint=true&q=Buzz
+This passed!! :) on Mon Sep 13 23:31:21 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:23 EDT 2010
+
+The string being tested: https://www.googleapis.com/buzz/v1/people/@me/@groups?prettyprint=true
+This passed!! :) on Mon Sep 13 23:31:26 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:31:28 EDT 2010
+******************************************
+Running the People tests for JSON
+******************************************
+going to do some people stuff... on Mon Sep 13 23:31:28 EDT 2010
+
+the string being tested: https://www.googleapis.com/buzz/v1/people/@me/@self?prettyprint=true&alt=json
+This passed!! :) on Mon Sep 13 23:31:34 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:31:36 EDT 2010
+
+the string being tested: https://www.googleapis.com/buzz/v1/people/sami.shalabi/@self?prettyprint=true&alt=json
+This passed!! :) on Mon Sep 13 23:31:40 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:31:42 EDT 2010
+
+the string being tested: https://www.googleapis.com/buzz/v1/people/sami.shalabi/@groups/@followers?prettyprint=true&alt=json
+This passed!! :) on Mon Sep 13 23:31:49 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:31:51 EDT 2010
+
+the string being tested: https://www.googleapis.com/buzz/v1/people/sami.shalabi/@groups/@following?prettyprint=true&alt=json
+This passed!! :) on Mon Sep 13 23:31:57 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:31:59 EDT 2010
+
+the string being tested: https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked?prettyprint=true&alt=json
+This passed!! :) on Mon Sep 13 23:32:03 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:32:05 EDT 2010
+
+the string being tested: https://www.googleapis.com/buzz/v1/people/search?prettyprint=true&q=Buzz
+This passed!! :) on Mon Sep 13 23:32:10 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:32:12 EDT 2010
+******************************************
+Running the Posts tests
+******************************************
+
+Creating a public post...on Mon Sep 13 23:32:12 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:32:19 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:32:19 EDT 2010
+
+Creating a post with a photo...on Mon Sep 13 23:32:24 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:32:36 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:32:36 EDT 2010
+
+Creating a post with an article...on Mon Sep 13 23:32:41 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with a link!</title>
+ <published>2010-09-14T03:32:51.000Z</published>
+ <updated>2010-09-14T03:32:51.530Z</updated>
+ <id>tag:google.com,2010:buzz:z13zyvr5lq33ghahg04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/VoZ1wviJvCv"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13zyvr5lq33ghahg04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13zyvr5lq33ghahg04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-09-14T03:32:51.530Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with a link!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with a link!</content>
+  <buzz:original-content type="text">Post with a link!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/VoZ1wviJvCv"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+   <title>Google Buzz buttons</title>
+   <link rel="alternate" type="text/html" href="http://gmailblog.blogspot.com/2010/04/google-buzz-buttons.html"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13zyvr5lq33ghahg04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+This passed!! :) on Mon Sep 13 23:32:51 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:32:51 EDT 2010
+
+Creating a post with a video...on Mon Sep 13 23:32:56 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:33:06 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:33:06 EDT 2010
+
+Creating a post with a photo album...on Mon Sep 13 23:33:11 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:33:25 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:33:25 EDT 2010
+
+Creating a post with a photo album and location on Mon Sep 13 23:33:30 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:33:45 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:33:45 EDT 2010
+
+Creating a private post ...on Mon Sep 13 23:33:50 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:33:55 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:33:55 EDT 2010
+
+Creating a post with a location on Mon Sep 13 23:34:00 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:34:06 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:34:06 EDT 2010
+
+creating a post snapped to place on Mon Sep 13 23:34:11 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+</PlaceSearchResponse>
+This passed!! :) on Mon Sep 13 23:34:17 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:34:17 EDT 2010
+******************************************
+Running the mediaPost tests
+******************************************
+
+Creating a post with picone as the image attachment on Mon Sep 13 23:34:17 EDT 2010
+
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+ </error>
+</errors>
+This failed on Mon Sep 13 23:34:26 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:34:26 EDT 2010
+
+Creating a post with multiple image attachments... on Mon Sep 13 23:34:31 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:34:43 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:34:43 EDT 2010
+
+Creating a post with picone as the image attachment via JSON on Mon Sep 13 23:34:43 EDT 2010
+
+ "error": {
+  "errors": [
+This failed on Mon Sep 13 23:34:50 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:34:50 EDT 2010
+
+Creating a Post with multiple image attachments via JSON on Mon Sep 13 23:34:50 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:34:55 EDT 2010
+something went wrong, failed Mon Sep 13 23:34:55 EDT 2010
+******************************************
+Running the postActions tests
+******************************************
+
+Like a post on Mon Sep 13 23:34:55 EDT 2010
+
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+ </error>
+</errors>
+This failed on Mon Sep 13 23:35:00 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:35:00 EDT 2010
+
+Unlike a post on Mon Sep 13 23:35:03 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:35:06 EDT 2010
+something went wrong, failed Mon Sep 13 23:35:06 EDT 2010
+
+mute a post on Mon Sep 13 23:35:09 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:35:14 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:35:14 EDT 2010
+
+unmute a post on Mon Sep 13 23:35:17 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:35:19 EDT 2010
+something went wrong, failed Mon Sep 13 23:35:19 EDT 2010
+
+Update a post on Mon Sep 13 23:35:24 EDT 2010
+
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <internalReason>A system error has occurred</internalReason>
+ </error>
+</errors>
+This failed on Mon Sep 13 23:35:30 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:35:30 EDT 2010
+
+Going to like a post via JSON
+
+The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.
+This failed on Mon Sep 13 23:35:34 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:35:34 EDT 2010
+
+Unlike a post viz JSON
+
+This passed!! :) on Mon Sep 13 23:35:38 EDT 2010
+something went wrong, failed Mon Sep 13 23:35:38 EDT 2010
+
+mute a post via JSON
+
+ "error": {
+  "errors": [
+This failed on Mon Sep 13 23:35:43 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:35:43 EDT 2010
+
+unmute a post via json
+
+This passed!! :) on Mon Sep 13 23:35:47 EDT 2010
+something went wrong, failed Mon Sep 13 23:35:47 EDT 2010
+
+unmute a post JSON
+
+{
+ "error": {
+  "errors": [
+   {
+    "message": "A system error has occurred"
+   }
+  ],
+  "code": 503,
+  "message": "A system error has occurred"
+ }
+}
+This passed!! :) on Mon Sep 13 23:35:55 EDT 2010
+something went wrong, failed Mon Sep 13 23:35:55 EDT 2010
+******************************************
+Running the comments tests
+******************************************
+
+creating an ATOM comment on Mon Sep 13 23:35:55 EDT 2010
+
+This passed!! :) on Mon Sep 13 23:36:00 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:02 EDT 2010
+
+deleting an ATOM comment on Mon Sep 13 23:36:05 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?><errors xmlns="http://schemas.google.com/g/2005"><error><domain>GData</domain><code>invalid</code><location type="header">Authorization</location><internalReason>Attempting to access self view of a different user.</internalReason></error></errors>
+This failed on Mon Sep 13 23:36:08 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:08 EDT 2010
+
+Updating an ATOM comment on Mon Sep 13 23:36:11 EDT 2010
+
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+ </error>
+</errors>
+This failed on Mon Sep 13 23:36:17 EDT 2010
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:17 EDT 2010
+
+Creating a comment via JSON
+This passed!! :) on Mon Sep 13 23:36:23 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:36:23 EDT 2010
+
+updating a comment via JSON
+ "error": {
+  "errors": [
+This failed on Mon Sep 13 23:36:30 EDT 2010
+This is a JSON response, passed JSON test Mon Sep 13 23:36:30 EDT 2010
+******************************************
+Running the streams tests
+******************************************
+
+starting with Searches... on Mon Sep 13 23:36:30 EDT 2010
+
+
+Search String is: https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&q=obama&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:41 EDT 2010
+The search string number 1 passed!! :)
+
+Search String is: https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&lat=42.370498&lon=-71.083603&radius=100&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:48 EDT 2010
+The search string number 1 passed!! :)
+
+Search String is: https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&pid=CkQ6AAAA11-ykKK8mNCmfSTu9mOJzycQEMmYhAHcmOBt_G0IfZaA-0bPCDUTZaLKnskzqipJi3ljzUqlJ3SUvqL2GpyThRIQOPA13i2LQ3ttW4skW22YyxoUzIpT90QeEa9nswO7XqpywYuyErQ&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:53 EDT 2010
+The search string number 1 passed!! :)
+
+Search String is: https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&bbox=-79.38728,43.64183,-79.36265,43.66737&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:36:59 EDT 2010
+The search string number 1 passed!! :)
+
+Now moving on to My Streams... on Mon Sep 13 23:36:59 EDT 2010
+
+
+my Stream String is: https://www.googleapis.com/buzz/v1/activities/@me/@self?prettyprint=true&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:09 EDT 2010
+My stream number 1 passed!! :)
+
+my Stream String is: https://www.googleapis.com/buzz/v1/activities/@me/@public?prettyprint=true&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:16 EDT 2010
+My stream number 1 passed!! :)
+
+my Stream String is: https://www.googleapis.com/buzz/v1/activities/@me/@consumption?prettyprint=true&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:22 EDT 2010
+My stream number 1 passed!! :)
+
+Now moving on to Loaded Streams... on Mon Sep 13 23:37:22 EDT 2010
+
+
+Loaded Stream string: https://www.googleapis.com/buzz/v1/activities/@me/@consumption?prettyprint=true&max-comments=10&max-liked=10&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:34 EDT 2010
+Loaded stream number 1 passed!! :)
+
+Loaded Stream string: https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@self?prettyprint=true&max-comments=10&max-liked=10&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:41 EDT 2010
+Loaded stream number 1 passed!! :)
+
+Loaded Stream string: https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@public?prettyprint=true&max-comments=10&max-liked=10&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:47 EDT 2010
+Loaded stream number 1 passed!! :)
+
+Now moving on to user Streams... on Mon Sep 13 23:37:47 EDT 2010
+
+
+user stream is: https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@self?prettyprint=true&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:37:57 EDT 2010
+user stream number 1 passed!! :)
+
+user stream is: https://www.googleapis.com/buzz/v1/activities/sami.shalabi/@public?prettyprint=true&alt=atom
+This is an ATOM response, passed ATOM test Mon Sep 13 23:38:03 EDT 2010
+user stream number 1 passed!! :)

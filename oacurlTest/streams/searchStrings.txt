@@ -1,0 +1,4 @@
+https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&q=obama&alt=atom
+https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&lat=42.370498&lon=-71.083603&radius=100&alt=atom
+https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&pid=CkQ6AAAA11-ykKK8mNCmfSTu9mOJzycQEMmYhAHcmOBt_G0IfZaA-0bPCDUTZaLKnskzqipJi3ljzUqlJ3SUvqL2GpyThRIQOPA13i2LQ3ttW4skW22YyxoUzIpT90QeEa9nswO7XqpywYuyErQ&alt=atom
+https://www.googleapis.com/buzz/v1/activities/search?prettyprint=true&bbox=-79.38728,43.64183,-79.36265,43.66737&alt=atom

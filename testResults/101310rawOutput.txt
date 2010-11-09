@@ -1,0 +1,275 @@
+******************************************
+Running the People tests for ATOM
+******************************************
+******************************************
+Running the People tests for JSON
+******************************************
+******************************************
+Running the Posts tests
+******************************************
+
+Creating a public post...on Wed Oct 13 09:41:21 EDT 2010
+
+
+Creating a post with a photo...on Wed Oct 13 09:41:32 EDT 2010
+
+
+Creating a post with an article...on Wed Oct 13 09:41:45 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with a link!</title>
+ <published>2010-10-13T13:41:53.000Z</published>
+ <updated>2010-10-13T13:41:53.400Z</updated>
+ <id>tag:google.com,2010:buzz:z12wd1052sffenibb04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/fiFz3jWkDts"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12wd1052sffenibb04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12wd1052sffenibb04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-10-13T13:41:53.400Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with a link!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with a link!</content>
+  <buzz:original-content type="text">Post with a link!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/fiFz3jWkDts"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+   <title>Google Buzz buttons</title>
+   <link rel="alternate" type="text/html" href="http://gmailblog.blogspot.com/2010/04/google-buzz-buttons.html"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title/>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12wd1052sffenibb04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+
+Creating a post with a video...on Wed Oct 13 09:41:58 EDT 2010
+
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+ </error>
+</errors>
+
+Creating a post with a photo album...on Wed Oct 13 09:42:11 EDT 2010
+
+
+Creating a post with a photo album and location on Wed Oct 13 09:42:30 EDT 2010
+
+
+Creating a private post ...on Wed Oct 13 09:42:48 EDT 2010
+
+
+Creating a post with a location on Wed Oct 13 09:42:57 EDT 2010
+
+
+creating a post snapped to place on Wed Oct 13 09:43:07 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+</PlaceSearchResponse>
+******************************************
+Running the mediaPost tests
+******************************************
+
+Creating a post with picone as the image attachment on Wed Oct 13 09:43:13 EDT 2010
+
+
+Creating a post with multiple image attachments... on Wed Oct 13 09:43:27 EDT 2010
+
+
+Creating a post with picone as the image attachment via JSON on Wed Oct 13 09:43:37 EDT 2010
+
+
+Creating a Post with multiple image attachments via JSON on Wed Oct 13 09:43:44 EDT 2010
+
+******************************************
+Running the postActions tests
+******************************************
+
+get count of Link Shares ATOM
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed gd:kind="buzz#countFeed" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://www.w3.org/2005/Atom">
+ <entry gd:kind="buzz#link">
+  <id>http://www.google.com</id>
+  <updated>2010-10-13T13:43:51.335Z</updated>
+  <thr:total>63898</thr:total>
+ </entry>
+</feed>
+
+get count of Link Shares ATOM
+
+{
+ "data": {
+  "kind": "buzz#countFeed",
+  "counts": {
+   "http://www.google.com": [
+    {
+     "timestamp": "2010-10-13T13:43:53.251Z",
+     "count": "63898"
+    }
+   ]
+  }
+ }
+}
+
+Like a post on Wed Oct 13 09:43:53 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <internalReason>Internal Error</internalReason>
+ </error>
+</errors>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+ </error>
+</errors>
+
+Unlike a post on Wed Oct 13 09:43:59 EDT 2010
+
+
+mute a post on Wed Oct 13 09:44:04 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Go Redsox 2 via JSON!</title>
+ <published>2010-05-13T18:49:51.000Z</published>
+ <updated>2010-05-13T18:49:51.876Z</updated>
+ <id>tag:google.com,2010:buzz:z12ltdq4bky1tzw5004cftt4msq3y3kj144</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/117168590257167937559/Tui2fGxojra"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/B:z12ltdq4bky1tzw5004cftt4msq3y3kj144?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/B:z12ltdq4bky1tzw5004cftt4msq3y3kj144/@comments?alt=atom" thr:count="96" thr:updated="2010-10-13T09:14:05.077Z"/>
+ <author>
+  <poco:id>117168590257167937559</poco:id>
+  <poco:photoUrl>http://www.google.com/s2/photos/public/AIbEiAIAAABECJfg6KWDvMWh7gEiC3ZjYXJkX3Bob3RvKihiMjAyMmNiZmQ1YmZjMDA0ODhkMGIxYjYwMTFhMzVhODIyYmEyOTY2MAE3wZh0M4pkAOLPuuhe88n5uy6Ayw</poco:photoUrl>
+  <name>Buzz Playground</name>
+  <uri>http://www.google.com/profiles/buzzapiplayground</uri>
+  <link rel="photo" type="image/jpeg" href="http://www.google.com/s2/photos/public/AIbEiAIAAABECJfg6KWDvMWh7gEiC3ZjYXJkX3Bob3RvKihiMjAyMmNiZmQ1YmZjMDA0ODhkMGIxYjYwMTFhMzVhODIyYmEyOTY2MAE3wZh0M4pkAOLPuuhe88n5uy6Ayw"/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Go Redsox 2 via JSON!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Go Redsox 2 via JSON!</content>
+  <buzz:original-content type="text"/>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/117168590257167937559/Tui2fGxojra"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>anonymous</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/B:z12ltdq4bky1tzw5004cftt4msq3y3kj144/@liked?alt=atom" buzz:count="1"/>
+ <category term="mute" label="Muted" schema="http://schemas.google.com/buzz/2010"/>
+ <georss:featureName>Google Cambridge</georss:featureName>
+</entry>
+
+unmute a post on Wed Oct 13 09:44:11 EDT 2010
+
+
+Update a post on Wed Oct 13 09:44:18 EDT 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <internalReason>A system error has occurred</internalReason>
+ </error>
+</errors>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <internalReason>A system error has occurred</internalReason>
+ </error>
+</errors>
+
+Going to like a post via JSON
+
+{
+ "error": {
+  "errors": [
+   {
+    "message": "Internal Error"
+   }
+  ],
+  "code": 500,
+  "message": "Internal Error"
+ }
+}
+ "error": {
+  "errors": [
+
+Unlike a post via JSON
+
+
+mute a post via JSON
+
+{
+ "error": {
+  "errors": [
+   {
+    "message": "Internal Error"
+   }
+  ],
+  "code": 500,
+  "message": "Internal Error"
+ }
+}
+ "error": {
+  "errors": [
+
+unmute a post via json
+
+
+unmute a post JSON
+
+{
+ "error": {
+  "errors": [
+   {
+    "message": "A system error has occurred"
+   }
+  ],
+  "code": 503,
+  "message": "A system error has occurred"
+ }
+}
+******************************************
+Running the comments tests
+******************************************
+<?xml version="1.0" encoding="UTF-8"?><errors xmlns="http://schemas.google.com/g/2005"><error><domain>GData</domain><code>invalid</code><location type="header">Authorization</location><internalReason>Attempting to access self view of a different user.</internalReason></error></errors>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+ </error>
+</errors>
+ "error": {
+  "errors": [
+******************************************
+Running the streams tests
+******************************************
