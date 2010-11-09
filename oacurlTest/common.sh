@@ -1,6 +1,7 @@
 #!/bin/sh
 
 #function to find failure text within output of oacurl command
+#This is a change to the code
 
 didThisFail ()
 {	
