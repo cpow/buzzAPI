@@ -19,6 +19,11 @@ echo "******************************************"
 ./oacurlTest/people/peopleJSON.sh 
 
 echo "******************************************"
+echo "Running the Groups tests"
+echo "******************************************"
+./oacurlTest/groups/groups.sh
+
+echo "******************************************"
 echo "Running the Posts tests"
 echo "******************************************"
 ./oacurlTest/posts/posts.sh 
