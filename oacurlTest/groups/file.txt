@@ -1,0 +1,11 @@
+{
+ "error": {
+  "errors": [
+   {
+    "message": "This group already exists"
+   }
+  ],
+  "code": 403,
+  "message": "This group already exists"
+ }
+}

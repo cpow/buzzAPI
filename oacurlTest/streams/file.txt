@@ -10,9 +10,78 @@
    ]
   },
   "title": "Google Buzz Liked Feed for Sami Shalabi",
-  "updated": "2010-07-18T15:56:38.871Z",
+  "updated": "2010-11-11T04:09:23.446Z",
   "id": "tag:google.com,2010:buzz-feed:commented:posted:103059238641169868733",
   "items": [
+   {
+    "kind": "buzz#activity",
+    "title": "shalabi: Packing and getting ready for #YSWLEB The many months of prep are about to be realized. ...",
+    "published": "2010-11-11T03:37:25.000Z",
+    "updated": "2010-11-11T03:37:25.000Z",
+    "id": "tag:google.com,2010:buzz:z12bxzloflbwtnltv23nhdqobwnhczpbp04",
+    "links": {
+     "liked": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12bxzloflbwtnltv23nhdqobwnhczpbp04/@liked?alt\u003djson",
+       "type": "application/json",
+       "count": 0
+      }
+     ],
+     "alternate": [
+      {
+       "href": "http://www.google.com/buzz/103059238641169868733/AxmgjinL582",
+       "type": "text/html"
+      }
+     ],
+     "replies": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12bxzloflbwtnltv23nhdqobwnhczpbp04/@comments?alt\u003djson",
+       "type": "application/json",
+       "count": 2,
+       "updated": "2010-11-11T04:09:23.446Z"
+      }
+     ],
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/activities/103059238641169868733/@self/B:z12bxzloflbwtnltv23nhdqobwnhczpbp04?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    },
+    "actor": {
+     "id": "103059238641169868733",
+     "name": "Sami Shalabi",
+     "profileUrl": "http://www.google.com/profiles/sami.shalabi",
+     "thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABDCL3P0NDeqqa6KiILdmNhcmRfcGhvdG8qKDY1YTlkYWQzNDAwNjdjMzA0NzMxZTc5MmZjMzFjODQwMDVkMzAwMTEwAUOo4ujWHRWqX_YKKNcddC4w71Rx"
+    },
+    "verbs": [
+     "post"
+    ],
+    "object": {
+     "type": "note",
+     "content": "\u003ca href\u003d\"http://twitter.com/shalabi\"\u003eshalabi\u003c/a\u003e: Packing and getting ready for \u003ca href\u003d\"http://www.google.com/search?tbo\u003d1&amp;tbs\u003dmbl:1&amp;q\u003d%23YSWLEB\"\u003e#YSWLEB\u003c/a\u003e The many months of prep are about to be realized. C u there! \u003ca href\u003d\"http://bit.ly/9bEORA\" \u003ehttp://bit.ly/9bEORA\u003c/a\u003e",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://www.google.com/buzz/103059238641169868733/AxmgjinL582",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    "crosspostSource": "tag:twitter.com,2007:http://twitter.com/shalabi/statuses/2565531550875648",
+    "source": {
+     "title": "Twitter"
+    },
+    "visibility": {
+     "entries": [
+      {
+       "id": "G:@me:@public",
+       "title": "Public"
+      }
+     ]
+    }
+   },
    {
     "kind": "buzz#activity",
     "title": "phopkins: Joined Google right out of school. After 5 years, today's my last day. So happy for the...",
