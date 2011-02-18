@@ -1,0 +1,11 @@
+https://www.googleapis.com/buzz/v1/photos/@me/@self
+
+https://www.googleapis.com/buzz/v1/photos/@me/@self/5544987851349662929
+
+https://www.googleapis.com/buzz/v1/photos/@me/@self/5544987851349662929/@photos
+
+https://www.googleapis.com/buzz/v1/photos/@me/@self/@recent/@photos
+
+https://www.googleapis.com/buzz/v1/photos/@me/@self/5544987851349662929/@photos/{photoId}
+
+https://www.googleapis.com/buzz/v1/photos/@me/@self

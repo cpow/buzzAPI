@@ -6,12 +6,11 @@
 didThisFail ()
 {	
 	cat `dirname $0`/file.txt | grep error 
-	
-	  if [ $? -eq 0 ]; then
-   		PASSFAIL="Passed" 
+	  if [ $? = 0 ]; then
+   		PASSFAIL="Failed" 
 	  else
 		cat `dirname $0`/file.txt | grep exception 
-			if [ $? -eq 0 ]; then
+			if [ $? = 0 ]; then
 		  		PASSFAIL="Failed" 
 			else
 	  			PASSFAIL="Passed" 
@@ -21,30 +20,20 @@ didThisFail ()
 
 passJSON () 
 {
-	cat `dirname $0`/file.txt | grep { > ouput.txt
-		if [ $? -eq 0 ]; then
+	cat `dirname $0`/file.txt | grep { > output.txt
+		if [ $? = 0 ]; then
 			PASSFAILJSON="Passed JSON"
 		else
-			cat `dirname $0`/file.txt | grep "<" > output.txt
-				if [ $? -eq 0 ]; then
-					PASSFAILJSON="Failed JSON"
-				else
-					PASSFAILJSON="Passed JSON"
-				fi
-			fi
+			PASSFAILJSON="Failed JSON"
+		fi
 }
 
 passATOM () 
 {
-	cat `dirname $0`/file.txt | grep "<" > output.txt
-		if [ $? -eq 0 ]; then
-			PASSFAILATOM="Passed ATOM"
+	cat `dirname $0`/file.txt | grep { > output.txt
+		if [ $? = 0 ]; then
+			PASSFAILATOM="Failed ATOM"
 		else
-			cat `dirname $0`/file.txt | grep { > output.txt
-				if [ $? -eq 0 ]; then
-					PASSFAILATOM="Failed ATOM"
-				else
-					PASSFAILATOM="Passed ATOM"
-				fi
-			fi
+			PASSFAILATOM="Passed ATOM"
+		fi
 }

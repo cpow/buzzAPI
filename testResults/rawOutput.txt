@@ -1,0 +1,414 @@
+******************************************
+Running the People tests for ATOM
+******************************************
+
+Going to follow Sami Shalabi ATOM
+
+Going to unfollow Sami Shalabi ATOM
+
+Blocking poor sami
+
+unblocking poor sami
+******************************************
+Running the People tests for JSON
+******************************************
+
+Going to follow Sami Shalabi JSON
+
+Going to unfollow Sami Shalabi JSON
+
+Blocking poor sami json
+
+unblocking poor sami json
+******************************************
+Running the Groups tests
+******************************************
+gets my groups ATOM
+<?xml version="1.0" encoding="UTF-8"?>
+<feed gd:kind="buzz#groupFeed" xmlns="http://www.w3.org/2005/Atom" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups?alt=atom"/>
+ <generator uri="http://www.google.com/buzz">Google Buzz</generator>
+ <entry gd:kind="buzz#group">
+  <id>G:112995641975375522142:15</id>
+  <title>Coworkers</title>
+  <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:15?alt=atom"/>
+ </entry>
+ <entry gd:kind="buzz#group">
+  <id>G:112995641975375522142:14</id>
+  <title>Family</title>
+  <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:14?alt=atom"/>
+ </entry>
+ <entry gd:kind="buzz#group">
+  <id>G:112995641975375522142:13</id>
+  <title>Friends</title>
+  <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:13?alt=atom"/>
+ </entry>
+ <entry gd:kind="buzz#group">
+  <id>G:112995641975375522142:6</id>
+  <title>My Contacts</title>
+  <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:6?alt=atom"/>
+ </entry>
+</feed>
+gets my groups JSON
+{
+ "data": {
+  "kind": "buzz#groupFeed",
+  "links": {
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  },
+  "items": [
+   {
+    "kind": "buzz#group",
+    "id": "G:112995641975375522142:15",
+    "title": "Coworkers",
+    "links": {
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:15?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#group",
+    "id": "G:112995641975375522142:14",
+    "title": "Family",
+    "links": {
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:14?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#group",
+    "id": "G:112995641975375522142:13",
+    "title": "Friends",
+    "links": {
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:13?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    }
+   },
+   {
+    "kind": "buzz#group",
+    "id": "G:112995641975375522142:6",
+    "title": "My Contacts",
+    "links": {
+     "self": [
+      {
+       "href": "https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:6?alt\u003djson",
+       "type": "application/json"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}
+Creating a group ATOM...
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#group" xmlns="http://www.w3.org/2005/Atom" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:gd="http://schemas.google.com/g/2005">
+ <id>G:112995641975375522142:1259800172513646890</id>
+ <title>My group</title>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:1259800172513646890?alt=atom"/>
+</entry>
+Creating a group JSON...
+{
+ "data": {
+  "kind": "buzz#group",
+  "id": "G:112995641975375522142:1624550620237350652",
+  "title": "My group via json",
+  "links": {
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:1624550620237350652?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  }
+ }
+}
+Add a person to a group ATOM
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#person" xmlns="http://portablecontacts.net/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005"/>
+Add a person to a group JSON
+{
+ "data": {
+  "kind": "buzz#person"
+ }
+}
+Remove person from a group ATOM
+Remove person from a group JSON
+rename a group ATOM
+<?xml version="1.0" encoding="UTF-8"?>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <domain>GData</domain>
+  <code>invalid</code>
+  <internalReason>This group does not exist</internalReason>
+ </error>
+</errors>
+rename a group JSON
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "invalid",
+    "message": "This group does not exist"
+   }
+  ],
+  "code": 400,
+  "message": "This group does not exist"
+ }
+}
+get a group ATOM
+Internal Errorget a group JSON
+Internal ErrorGroup members ATOM
+<?xml version="1.0" encoding="UTF-8"?>
+<response gd:kind="buzz#peopleFeed" xmlns="http://portablecontacts.net/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005">
+ <startIndex>0</startIndex>
+ <itemsPerPage>20</itemsPerPage>
+ <totalResults>0</totalResults>
+</response>
+group members ATOM,https://www.googleapis.com/buzz/v1/people/@me/@groups/tag:google.com,2010:buzz-group:45621564:63122000?prettyprint=true,Passed,Passed ATOM
+Group members JSON
+{
+ "data": {
+  "kind": "buzz#peopleFeed",
+  "startIndex": 0,
+  "itemsPerPage": 20,
+  "totalResults": 0
+ }
+}
+group members JSON,https://www.googleapis.com/buzz/v1/people/@me/@groups/tag:google.com,2010:buzz-group:45621564:63122000?prettyprint=true&alt=json,Passed,Passed JSON
+******************************************
+Running the Posts tests
+******************************************
+
+Creating a public post...on Mon Nov  8 20:32:08 EST 2010
+
+
+Creating a post with a photo...on Mon Nov  8 20:32:19 EST 2010
+
+
+Creating a post with an article...on Mon Nov  8 20:32:31 EST 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with a link!</title>
+ <published>2010-11-09T01:32:38.000Z</published>
+ <updated>2010-11-09T01:32:38.589Z</updated>
+ <id>tag:google.com,2010:buzz:z12uyjmyqnr5hznt322phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/6xb6o3TrMwa"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12uyjmyqnr5hznt322phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12uyjmyqnr5hznt322phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-11-09T01:32:38.589Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with a link!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with a link!</content>
+  <buzz:original-content type="text">Post with a link!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/6xb6o3TrMwa"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/article</activity:object-type>
+   <title>Google Buzz buttons</title>
+   <link rel="alternate" type="text/html" href="http://gmailblog.blogspot.com/2010/04/google-buzz-buttons.html"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12uyjmyqnr5hznt322phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+
+Creating a post with a video...on Mon Nov  8 20:32:43 EST 2010
+
+
+Creating a post with a photo album...on Mon Nov  8 20:32:56 EST 2010
+
+
+Creating a post with a photo album and location on Mon Nov  8 20:33:13 EST 2010
+
+
+Creating a private post ...on Mon Nov  8 20:33:29 EST 2010
+
+
+Creating a post with a location on Mon Nov  8 20:33:39 EST 2010
+
+
+creating a post snapped to place on Mon Nov  8 20:33:48 EST 2010
+
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>REQUEST_DENIED</status>
+</PlaceSearchResponse>
+******************************************
+Running the mediaPost tests
+******************************************
+
+Creating a post with picone as the image attachment on Mon Nov  8 20:33:52 EST 2010
+
+
+Creating a post with multiple image attachments... on Mon Nov  8 20:34:09 EST 2010
+
+
+Creating a post with picone as the image attachment via JSON on Mon Nov  8 20:34:18 EST 2010
+
+
+Creating a Post with multiple image attachments via JSON on Mon Nov  8 20:34:27 EST 2010
+
+******************************************
+Running the postActions tests
+******************************************
+
+get count of Link Shares ATOM
+
+
+get count of Link Shares JSON
+
+
+Like a post on Mon Nov  8 20:34:35 EST 2010
+
+
+Unlike a post on Mon Nov  8 20:34:43 EST 2010
+
+
+mute a post on Mon Nov  8 20:34:48 EST 2010
+
+
+unmute a post on Mon Nov  8 20:34:54 EST 2010
+
+
+Update a post on Mon Nov  8 20:35:01 EST 2010
+
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <internalReason>A system error has occurred</internalReason>
+ </error>
+</errors>
+
+Going to like a post via JSON
+
+
+Unlike a post via JSON
+
+
+mute a post via JSON
+
+
+unmute a post via json
+
+******************************************
+Running the comments tests
+******************************************
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#comment" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <activity:object-type>http://activitystrea.ms/schema/1.0/comment</activity:object-type>
+ <published>2010-11-09T01:35:20.986Z</published>
+ <updated>2010-11-09T01:35:20.986Z</updated>
+ <id>tag:google.com,2010:buzz-comment:z12ltdq4bky1tzw5004cftt4msq3y3kj144:1289266520986000</id>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg"/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">My comment</content>
+ <buzz:original-content type="text/plain">My comment</buzz:original-content>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/117168590257167937559/Tui2fGxojra"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/B:z12ltdq4bky1tzw5004cftt4msq3y3kj144/@comments/C:z12ltdq4bky1tzw5004cftt4msq3y3kj144:1289266520986000?alt=atom"/>
+ <thr:in-reply-to ref="tag:google.com,2010:buzz:z12ltdq4bky1tzw5004cftt4msq3y3kj144" type="text/html" href="http://www.google.com/buzz/117168590257167937559/Tui2fGxojra"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <domain>GData</domain>
+  <code>invalid</code>
+  <location type="header">Authorization</location>
+  <internalReason>Attempting to access self view of a different user.</internalReason>
+ </error>
+</errors>
+{
+ "data": {
+  "kind": "buzz#comment",
+  "id": "tag:google.com,2010:buzz-comment:z12ltdq4bky1tzw5004cftt4msq3y3kj144:1289266536545000",
+  "published": "2010-11-09T01:35:36.545Z",
+  "updated": "2010-11-09T01:35:36.545Z",
+  "actor": {
+   "id": "112995641975375522142",
+   "name": "uTestBuzzAPI Tester3",
+   "profileUrl": "http://www.google.com/profiles/112995641975375522142"
+  },
+  "content": "My comment via json",
+  "originalContent": "My comment via json",
+  "links": {
+   "inReplyTo": [
+    {
+     "ref": "tag:google.com,2010:buzz:z12ltdq4bky1tzw5004cftt4msq3y3kj144",
+     "href": "http://www.google.com/buzz/117168590257167937559/Tui2fGxojra"
+    }
+   ],
+   "alternate": [
+    {
+     "href": "http://www.google.com/buzz/117168590257167937559/Tui2fGxojra",
+     "type": "text/html"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/117168590257167937559/@self/B:z12ltdq4bky1tzw5004cftt4msq3y3kj144/@comments/C:z12ltdq4bky1tzw5004cftt4msq3y3kj144:1289266536545000?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  }
+ }
+}
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "invalid",
+    "message": "Attempting to access self view of a different user.",
+    "locationType": "header",
+    "location": "Authorization"
+   }
+  ],
+  "code": 401,
+  "message": "Attempting to access self view of a different user."
+ }
+}
+******************************************
+Running the streams tests
+******************************************

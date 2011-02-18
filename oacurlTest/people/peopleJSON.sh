@@ -47,4 +47,4 @@ echo "blocked sami shalabi json,https://www.googleapis.com/buzz/v1/people/@me/@g
 echo ""
 echo "unblocking poor sami json"
 oacurl -X DELETE "https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked/sami.shalabi?prettyprint=true&alt=json" > `dirname $0`/file.txt
-echo "unblocked poor sami json,https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked/sami.shalabi?prettyprint=true,$PASSFAIL,$PASSFAILJSON" >> CSVResults.csv>
+echo "unblocked poor sami json,https://www.googleapis.com/buzz/v1/people/@me/@groups/@blocked/sami.shalabi?prettyprint=true,$PASSFAIL,$PASSFAILJSON" >> CSVResults.csv

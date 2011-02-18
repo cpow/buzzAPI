@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<errors xmlns="http://schemas.google.com/g/2005">
+ <error>
+  <internalReason>This group already exists</internalReason>
+ </error>
+</errors>

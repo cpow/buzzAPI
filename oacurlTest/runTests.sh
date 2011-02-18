@@ -47,3 +47,27 @@ echo "******************************************"
 echo "Running the streams tests"
 echo "******************************************"
 ./oacurlTest/streams/streams.sh 
+
+echo ",,," >> CSVResults.csv
+echo ",,," >> CSVResults.csv
+
+echo "******************************************"
+echo "Running the Sandbox Groups tests"
+echo "******************************************"
+./oacurlTest/groups/sandboxGroups.sh
+
+echo "******************************************"
+echo "Running the Sandbox People tests for JSON"
+echo "******************************************"
+./oacurlTest/people/sandboxPeopleJSON.sh
+
+echo "******************************************"
+echo "Running the Sandbox People tests for JSON"
+echo "******************************************"
+./oacurlTest/people/sandboxPeopleJSON.sh
+
+echo "******************************************"
+echo "Running the Sandbox streams tests"
+echo "******************************************"
+./oacurlTest/people/sandboxstreams.sh
+

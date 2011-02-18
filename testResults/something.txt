@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Bzz! Bzz!</title>
+ <published>2010-12-04T16:01:15.000Z</published>
+ <updated>2010-12-04T16:01:15.609Z</updated>
+ <id>tag:google.com,2010:buzz:z12fd3qygx2bfvbrr04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/iMX81G7163o"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12fd3qygx2bfvbrr04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12fd3qygx2bfvbrr04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:01:15.609Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Bzz! Bzz!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Bzz! Bzz!</content>
+  <buzz:original-content type="text">Bzz! Bzz!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/iMX81G7163o"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12fd3qygx2bfvbrr04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with an image!</title>
+ <published>2010-12-04T16:01:28.000Z</published>
+ <updated>2010-12-04T16:01:28.854Z</updated>
+ <id>tag:google.com,2010:buzz:z13depeokyr1fbl0o22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/4SD9Fu22kY9"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13depeokyr1fbl0o22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13depeokyr1fbl0o22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:01:28.854Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with an image!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with an image!</content>
+  <buzz:original-content type="text">Post with an image!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/4SD9Fu22kY9"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://www.google.com/intl/en_ALL/images/srpr/logo1w.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fwww.google.com%2Fintl%2Fen_ALL%2Fimages%2Fsrpr%2Flogo1w.png"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13depeokyr1fbl0o22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with a video!</title>
+ <published>2010-12-04T16:01:58.000Z</published>
+ <updated>2010-12-04T16:01:58.222Z</updated>
+ <id>tag:google.com,2010:buzz:z12qfb0ykzuzt3igk04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/RAK2eDD22LK"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12qfb0ykzuzt3igk04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12qfb0ykzuzt3igk04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:01:58.222Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with a video!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with a video!</content>
+  <buzz:original-content type="text">Post with a video!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/RAK2eDD22LK"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+   <title>Parisian Love</title>
+   <content type="html">An American finds love in Paris. Watch more Search Stories by Google at http://youtube.com/searchstories
+
+Search On.</content>
+   <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=nnsSUqgkDwU"/>
+   <link rel="alternate" type="application/x-shockwave-flash" href="http://www.youtube.com/v/nnsSUqgkDwU&amp;hl=en&amp;fs=1&amp;autoplay=1"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fytimg.googleusercontent.com%2Fvi%2FnnsSUqgkDwU%2Fdefault.jpg"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12qfb0ykzuzt3igk04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with photo album!</title>
+ <published>2010-12-04T16:02:14.000Z</published>
+ <updated>2010-12-04T16:02:14.144Z</updated>
+ <id>tag:google.com,2010:buzz:z13cyjhhapbht5mqd04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/aia9C1mdNtp"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13cyjhhapbht5mqd04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13cyjhhapbht5mqd04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:02:14.144Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with photo album!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with photo album!</content>
+  <buzz:original-content type="text">Post with photo album!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/aia9C1mdNtp"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>Vegas Weekend</title>
+   <content type="html">A few shots from our trip to Las Vegas.</content>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>Excalibur</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHUPTZ7HI/AAAAAAAAAAs/q-5zQhVMhbo/IMG_4268.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138792704797810"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs72%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs144%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs288%2FIMG_4268.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>FDNY boat in front of the New York - New York casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh3.ggpht.com/_T2gT2CMlMy8/RoBHXfTZ7II/AAAAAAAAAA0/K3Wlse0W-r0/IMG_4297.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138848539372674"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs72%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs144%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs288%2FIMG_4297.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>The Vegas Strip</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHYPTZ7JI/AAAAAAAAAA8/6wn2DIHA6BM/IMG_4276.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138861424274578"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs72%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs144%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs288%2FIMG_4276.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>New York - New York Casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHZPTZ7KI/AAAAAAAAABE/9cM4uBrT2lw/IMG_4262.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138878604143778"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs72%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs144%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs288%2FIMG_4262.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_T2gT2CMlMy8/RoBHZ_TZ7LI/AAAAAAAAABM/_bC2p5nkOjE/IMG_4247.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138891489045682"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs72%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs144%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs288%2FIMG_4247.JPG"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13cyjhhapbht5mqd04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with photo album with location!</title>
+ <published>2010-12-04T16:02:29.000Z</published>
+ <updated>2010-12-04T16:02:29.198Z</updated>
+ <id>tag:google.com,2010:buzz:z13hu3vhhqqqvxbyb04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/aKwGmQKdydt"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13hu3vhhqqqvxbyb04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13hu3vhhqqqvxbyb04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:02:29.198Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with photo album with location!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with photo album with location!</content>
+  <buzz:original-content type="text">Post with photo album with location!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/aKwGmQKdydt"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>Vegas Weekend</title>
+   <content type="html">A few shots from our trip to Las Vegas.</content>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>Excalibur</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHUPTZ7HI/AAAAAAAAAAs/q-5zQhVMhbo/IMG_4268.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138792704797810"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs72%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs144%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs288%2FIMG_4268.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>FDNY boat in front of the New York - New York casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh3.ggpht.com/_T2gT2CMlMy8/RoBHXfTZ7II/AAAAAAAAAA0/K3Wlse0W-r0/IMG_4297.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138848539372674"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs72%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs144%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs288%2FIMG_4297.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>The Vegas Strip</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHYPTZ7JI/AAAAAAAAAA8/6wn2DIHA6BM/IMG_4276.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138861424274578"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs72%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs144%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs288%2FIMG_4276.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>New York - New York Casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHZPTZ7KI/AAAAAAAAABE/9cM4uBrT2lw/IMG_4262.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138878604143778"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs72%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs144%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs288%2FIMG_4262.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_T2gT2CMlMy8/RoBHZ_TZ7LI/AAAAAAAAABM/_bC2p5nkOjE/IMG_4247.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138891489045682"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs72%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs144%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs288%2FIMG_4247.JPG"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13hu3vhhqqqvxbyb04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+ <georss:point>36.116921 -115.172296</georss:point>
+ <poco:address>
+  <poco:formatted>3557-3575 Las Vegas Blvd S, Las Vegas, NV 89109, USA</poco:formatted>
+ </poco:address>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Private post!</title>
+ <published>2010-12-04T16:02:38.000Z</published>
+ <updated>2010-12-04T16:02:38.186Z</updated>
+ <id>tag:google.com,2010:buzz:z133fd3qwpvmtfzfs22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/MEdxD4Ax2Rj"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z133fd3qwpvmtfzfs22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z133fd3qwpvmtfzfs22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:02:38.186Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Private post!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Private post!</content>
+  <buzz:original-content type="text">Private post!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/MEdxD4Ax2Rj"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:112995641975375522142:13</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:13?alt=atom</uri>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z133fd3qwpvmtfzfs22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Go Redsox!</title>
+ <published>2010-12-04T16:02:47.000Z</published>
+ <updated>2010-12-04T16:02:47.309Z</updated>
+ <id>tag:google.com,2010:buzz:z12dtpkipmnnjf2g104ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/NbDP5vekaQJ"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12dtpkipmnnjf2g104ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12dtpkipmnnjf2g104ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:02:47.309Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Go Redsox!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Go Redsox!</content>
+  <buzz:original-content type="text">Go Redsox!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/NbDP5vekaQJ"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12dtpkipmnnjf2g104ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+ <georss:point>42.370498 -71.083603</georss:point>
+ <poco:address>
+  <poco:formatted>83 5th St, Cambridge, MA 02141, USA</poco:formatted>
+ </poco:address>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>I am at Google Boston!</title>
+ <published>2010-12-04T16:02:56.000Z</published>
+ <updated>2010-12-04T16:02:56.909Z</updated>
+ <id>tag:google.com,2010:buzz:z132gxdbmtusslcwt04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/Sdx4USoYFHM"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z132gxdbmtusslcwt04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z132gxdbmtusslcwt04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:02:56.909Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">I am at Google Boston!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">I am at Google Boston!</content>
+  <buzz:original-content type="text">I am at Google Boston!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/Sdx4USoYFHM"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z132gxdbmtusslcwt04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+ <georss:featureName>Google Cambridge</georss:featureName>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Bzz Buz with attachement!</title>
+ <published>2010-12-04T16:03:08.000Z</published>
+ <updated>2010-12-04T16:03:08.923Z</updated>
+ <id>tag:google.com,2010:buzz:z12xdzrqtyjysrr0a22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/28BsNSoSho7"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12xdzrqtyjysrr0a22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12xdzrqtyjysrr0a22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:03:08.923Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Bzz Buz with attachement!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Bzz Buz with attachement!</content>
+  <buzz:original-content type="text">Bzz Buz with attachement!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/28BsNSoSho7"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>2010-12-04 (1)</title>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/20101204?authkey=Gv1sRgCNTD-cuN2-u-xAE"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_Mvy_RHGNm5Q/TPpmOfw-AZI/AAAAAAAAAHA/M37mpiIf80o/.png"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/20101204?authkey=Gv1sRgCNTD-cuN2-u-xAE#5546858290291278226"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpmOfw-AZI%2FAAAAAAAAAHA%2FM37mpiIf80o%2Fs72%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpmOfw-AZI%2FAAAAAAAAAHA%2FM37mpiIf80o%2Fs144%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpmOfw-AZI%2FAAAAAAAAAHA%2FM37mpiIf80o%2Fs288%2F.png"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12xdzrqtyjysrr0a22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post several attacheds photos!</title>
+ <published>2010-12-04T16:03:22.000Z</published>
+ <updated>2010-12-04T16:03:22.517Z</updated>
+ <id>tag:google.com,2010:buzz:z13dhpdptunwhzfnl22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/KxnWtU8d3bf"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13dhpdptunwhzfnl22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13dhpdptunwhzfnl22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:03:22.517Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post several attacheds photos!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post several attacheds photos!</content>
+  <buzz:original-content type="text">Post several attacheds photos!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/KxnWtU8d3bf"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>My uploaded photos</title>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_Mvy_RHGNm5Q/TGhZP_JZ6tI/AAAAAAAAACM/ynzfrs_eV_c/.png"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE#5505748675644222162"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs72%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs144%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs288%2F.png"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_Mvy_RHGNm5Q/TGhZezNq_dI/AAAAAAAAACQ/2MlE59VjNg0/.jpg"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE#5505748930138930642"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs72%2F.jpg"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs144%2F.jpg"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs288%2F.jpg"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13dhpdptunwhzfnl22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+{
+ "data": {
+  "kind": "buzz#activity",
+  "title": "Bzz Buz with attachement via JSON!",
+  "published": "2010-12-04T16:03:32.000Z",
+  "updated": "2010-12-04T16:03:32.719Z",
+  "id": "tag:google.com,2010:buzz:z13ph5fidxr5uxy1q22phv2a2zvfhp2yb04",
+  "links": {
+   "liked": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13ph5fidxr5uxy1q22phv2a2zvfhp2yb04/@liked?alt\u003djson",
+     "type": "application/json",
+     "count": 0
+    }
+   ],
+   "alternate": [
+    {
+     "href": "http://www.google.com/buzz/112995641975375522142/ABzRtHLFBkd",
+     "type": "text/html"
+    }
+   ],
+   "replies": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13ph5fidxr5uxy1q22phv2a2zvfhp2yb04/@comments?alt\u003djson",
+     "type": "application/json",
+     "count": 0,
+     "updated": "2010-12-04T16:03:32.719Z"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13ph5fidxr5uxy1q22phv2a2zvfhp2yb04?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  },
+  "actor": {
+   "id": "112995641975375522142",
+   "name": "uTestBuzzAPI Tester3",
+   "profileUrl": "http://www.google.com/profiles/112995641975375522142",
+   "thumbnailUrl": ""
+  },
+  "verbs": [
+   "post"
+  ],
+  "object": {
+   "type": "note",
+   "content": "Bzz Buz with attachement via JSON!",
+   "originalContent": "Bzz Buz with attachement via JSON!",
+   "links": {
+    "alternate": [
+     {
+      "href": "http://www.google.com/buzz/112995641975375522142/ABzRtHLFBkd",
+      "type": "text/html"
+     }
+    ]
+   },
+   "attachments": [
+    {
+     "type": "photo-album",
+     "title": "2010-12-04 (1)",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://picasaweb.google.com/112995641975375522142/2010120402?authkey\u003dGv1sRgCOj2tNzaxOmJhwE",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    {
+     "type": "photo",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://picasaweb.google.com/112995641975375522142/2010120402?authkey\u003dGv1sRgCOj2tNzaxOmJhwE#5546858395396352066",
+        "type": "text/html"
+       }
+      ],
+      "preview": [
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh3.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpmUnT-KEI%2FAAAAAAAAAHI%2FWfLTgIrB2lc%2Fs72%2F.png",
+        "type": "image/jpeg"
+       },
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh3.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpmUnT-KEI%2FAAAAAAAAAHI%2FWfLTgIrB2lc%2Fs144%2F.png",
+        "type": "image/jpeg"
+       },
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh3.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpmUnT-KEI%2FAAAAAAAAAHI%2FWfLTgIrB2lc%2Fs288%2F.png",
+        "type": "image/jpeg"
+       }
+      ],
+      "enclosure": [
+       {
+        "href": "http://lh3.ggpht.com/_Mvy_RHGNm5Q/TPpmUnT-KEI/AAAAAAAAAHI/WfLTgIrB2lc/.png",
+        "type": "image/jpeg"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "source": {
+   "title": "OACurl"
+  },
+  "visibility": {
+   "entries": [
+    {
+     "id": "G:@me:@public",
+     "title": "Public"
+    }
+   ]
+  }
+ }
+}
+<?xml version="1.0" encoding="UTF-8"?><errors xmlns="http://schemas.google.com/g/2005"><error><domain>GData</domain><code>invalid</code><location type="header">Authorization</location><internalReason>Attempting to access self view of a different user.</internalReason></error></errors><?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Bzz! Bzz!</title>
+ <published>2010-12-04T16:10:30.000Z</published>
+ <updated>2010-12-04T16:10:30.340Z</updated>
+ <id>tag:google.com,2010:buzz:z12birbwczfwx5ulr22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/ALeosNug2ww"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12birbwczfwx5ulr22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12birbwczfwx5ulr22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:10:30.340Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Bzz! Bzz!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Bzz! Bzz!</content>
+  <buzz:original-content type="text">Bzz! Bzz!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/ALeosNug2ww"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12birbwczfwx5ulr22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with an image!</title>
+ <published>2010-12-04T16:10:42.000Z</published>
+ <updated>2010-12-04T16:10:42.865Z</updated>
+ <id>tag:google.com,2010:buzz:z12ff3urxrvzwlfop04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/Rz1wgXHs6xV"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12ff3urxrvzwlfop04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12ff3urxrvzwlfop04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:10:42.865Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with an image!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with an image!</content>
+  <buzz:original-content type="text">Post with an image!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/Rz1wgXHs6xV"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://www.google.com/intl/en_ALL/images/srpr/logo1w.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fwww.google.com%2Fintl%2Fen_ALL%2Fimages%2Fsrpr%2Flogo1w.png"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12ff3urxrvzwlfop04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with a video!</title>
+ <published>2010-12-04T16:11:07.000Z</published>
+ <updated>2010-12-04T16:11:07.807Z</updated>
+ <id>tag:google.com,2010:buzz:z122en2p3lidyp1rt04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/if8WfmZo1DV"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z122en2p3lidyp1rt04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z122en2p3lidyp1rt04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:11:07.807Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with a video!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with a video!</content>
+  <buzz:original-content type="text">Post with a video!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/if8WfmZo1DV"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+   <title>Parisian Love</title>
+   <content type="html">An American finds love in Paris. Watch more Search Stories by Google at http://youtube.com/searchstories
+
+Search On.</content>
+   <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=nnsSUqgkDwU"/>
+   <link rel="alternate" type="application/x-shockwave-flash" href="http://www.youtube.com/v/nnsSUqgkDwU&amp;hl=en&amp;fs=1&amp;autoplay=1"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fytimg.googleusercontent.com%2Fvi%2FnnsSUqgkDwU%2Fdefault.jpg"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z122en2p3lidyp1rt04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with photo album!</title>
+ <published>2010-12-04T16:11:23.000Z</published>
+ <updated>2010-12-04T16:11:23.598Z</updated>
+ <id>tag:google.com,2010:buzz:z130zz2bmubuth2xj04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/WHZrfEVMp1e"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z130zz2bmubuth2xj04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z130zz2bmubuth2xj04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:11:23.598Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with photo album!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with photo album!</content>
+  <buzz:original-content type="text">Post with photo album!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/WHZrfEVMp1e"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>Vegas Weekend</title>
+   <content type="html">A few shots from our trip to Las Vegas.</content>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>Excalibur</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHUPTZ7HI/AAAAAAAAAAs/q-5zQhVMhbo/IMG_4268.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138792704797810"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs72%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs144%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs288%2FIMG_4268.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>FDNY boat in front of the New York - New York casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh3.ggpht.com/_T2gT2CMlMy8/RoBHXfTZ7II/AAAAAAAAAA0/K3Wlse0W-r0/IMG_4297.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138848539372674"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs72%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs144%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs288%2FIMG_4297.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>The Vegas Strip</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHYPTZ7JI/AAAAAAAAAA8/6wn2DIHA6BM/IMG_4276.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138861424274578"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs72%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs144%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs288%2FIMG_4276.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>New York - New York Casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHZPTZ7KI/AAAAAAAAABE/9cM4uBrT2lw/IMG_4262.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138878604143778"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs72%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs144%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs288%2FIMG_4262.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_T2gT2CMlMy8/RoBHZ_TZ7LI/AAAAAAAAABM/_bC2p5nkOjE/IMG_4247.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138891489045682"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs72%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs144%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs288%2FIMG_4247.JPG"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z130zz2bmubuth2xj04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with photo album with location!</title>
+ <published>2010-12-04T16:11:38.000Z</published>
+ <updated>2010-12-04T16:11:38.445Z</updated>
+ <id>tag:google.com,2010:buzz:z133fhqi5rrgih2ql04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/byP54xXJWj7"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z133fhqi5rrgih2ql04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z133fhqi5rrgih2ql04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:11:38.445Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with photo album with location!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with photo album with location!</content>
+  <buzz:original-content type="text">Post with photo album with location!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/byP54xXJWj7"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>Vegas Weekend</title>
+   <content type="html">A few shots from our trip to Las Vegas.</content>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>Excalibur</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHUPTZ7HI/AAAAAAAAAAs/q-5zQhVMhbo/IMG_4268.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138792704797810"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs72%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs144%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs288%2FIMG_4268.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>FDNY boat in front of the New York - New York casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh3.ggpht.com/_T2gT2CMlMy8/RoBHXfTZ7II/AAAAAAAAAA0/K3Wlse0W-r0/IMG_4297.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138848539372674"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs72%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs144%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs288%2FIMG_4297.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>The Vegas Strip</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHYPTZ7JI/AAAAAAAAAA8/6wn2DIHA6BM/IMG_4276.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138861424274578"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs72%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs144%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs288%2FIMG_4276.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>New York - New York Casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHZPTZ7KI/AAAAAAAAABE/9cM4uBrT2lw/IMG_4262.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138878604143778"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs72%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs144%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs288%2FIMG_4262.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_T2gT2CMlMy8/RoBHZ_TZ7LI/AAAAAAAAABM/_bC2p5nkOjE/IMG_4247.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138891489045682"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs72%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs144%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs288%2FIMG_4247.JPG"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z133fhqi5rrgih2ql04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+ <georss:point>36.116921 -115.172296</georss:point>
+ <poco:address>
+  <poco:formatted>3557-3575 Las Vegas Blvd S, Las Vegas, NV 89109, USA</poco:formatted>
+ </poco:address>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Private post!</title>
+ <published>2010-12-04T16:11:47.000Z</published>
+ <updated>2010-12-04T16:11:47.518Z</updated>
+ <id>tag:google.com,2010:buzz:z125grwakmrqxv1yu04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/dUTdhumYL8q"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z125grwakmrqxv1yu04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z125grwakmrqxv1yu04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:11:47.518Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Private post!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Private post!</content>
+  <buzz:original-content type="text">Private post!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/dUTdhumYL8q"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:112995641975375522142:13</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:13?alt=atom</uri>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z125grwakmrqxv1yu04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Go Redsox!</title>
+ <published>2010-12-04T16:11:56.000Z</published>
+ <updated>2010-12-04T16:11:56.665Z</updated>
+ <id>tag:google.com,2010:buzz:z13fj1eistzgxryms22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/Ft1e8T2wt1j"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13fj1eistzgxryms22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13fj1eistzgxryms22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:11:56.665Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Go Redsox!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Go Redsox!</content>
+  <buzz:original-content type="text">Go Redsox!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/Ft1e8T2wt1j"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13fj1eistzgxryms22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+ <georss:point>42.370498 -71.083603</georss:point>
+ <poco:address>
+  <poco:formatted>83 5th St, Cambridge, MA 02141, USA</poco:formatted>
+ </poco:address>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>I am at Google Boston!</title>
+ <published>2010-12-04T16:12:05.000Z</published>
+ <updated>2010-12-04T16:12:05.917Z</updated>
+ <id>tag:google.com,2010:buzz:z131ytkaszjbezton04ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/RiqtvMjLhSa"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z131ytkaszjbezton04ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z131ytkaszjbezton04ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:12:05.917Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">I am at Google Boston!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">I am at Google Boston!</content>
+  <buzz:original-content type="text">I am at Google Boston!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/RiqtvMjLhSa"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z131ytkaszjbezton04ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+ <georss:featureName>Google Cambridge</georss:featureName>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Bzz Buz with attachement!</title>
+ <published>2010-12-04T16:12:15.000Z</published>
+ <updated>2010-12-04T16:12:15.948Z</updated>
+ <id>tag:google.com,2010:buzz:z12uczaadxjtht3vs22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/M6Lr8KPvvzo"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12uczaadxjtht3vs22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12uczaadxjtht3vs22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:12:15.948Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Bzz Buz with attachement!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Bzz Buz with attachement!</content>
+  <buzz:original-content type="text">Bzz Buz with attachement!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/M6Lr8KPvvzo"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>2010-12-04 (1)</title>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010120403?authkey=Gv1sRgCOmX79qb-5S4hgE"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_Mvy_RHGNm5Q/TPpoXanOEZI/AAAAAAAAAHQ/Q5sDXbXSCYM/.png"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010120403?authkey=Gv1sRgCOmX79qb-5S4hgE#5546860642550288786"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpoXanOEZI%2FAAAAAAAAAHQ%2FQ5sDXbXSCYM%2Fs72%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpoXanOEZI%2FAAAAAAAAAHQ%2FQ5sDXbXSCYM%2Fs144%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpoXanOEZI%2FAAAAAAAAAHQ%2FQ5sDXbXSCYM%2Fs288%2F.png"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12uczaadxjtht3vs22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post several attacheds photos!</title>
+ <published>2010-12-04T16:12:31.000Z</published>
+ <updated>2010-12-04T16:12:31.243Z</updated>
+ <id>tag:google.com,2010:buzz:z13wtjchryqzsyf0kpfislkryuvhcrls1</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/14LxADfpGq6"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13wtjchryqzsyf0kpfislkryuvhcrls1?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13wtjchryqzsyf0kpfislkryuvhcrls1/@comments?alt=atom" thr:count="0" thr:updated="2010-12-04T16:12:31.243Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post several attacheds photos!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post several attacheds photos!</content>
+  <buzz:original-content type="text">Post several attacheds photos!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/14LxADfpGq6"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>My uploaded photos</title>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_Mvy_RHGNm5Q/TGhZP_JZ6tI/AAAAAAAAACM/ynzfrs_eV_c/.png"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE#5505748675644222162"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs72%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs144%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs288%2F.png"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_Mvy_RHGNm5Q/TGhZezNq_dI/AAAAAAAAACQ/2MlE59VjNg0/.jpg"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE#5505748930138930642"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs72%2F.jpg"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs144%2F.jpg"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs288%2F.jpg"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13wtjchryqzsyf0kpfislkryuvhcrls1/@liked?alt=atom" buzz:count="0"/>
+</entry>
+{
+ "data": {
+  "kind": "buzz#activity",
+  "title": "Bzz Buz with attachement via JSON!",
+  "published": "2010-12-04T16:12:41.000Z",
+  "updated": "2010-12-04T16:12:42.015Z",
+  "id": "tag:google.com,2010:buzz:z13cytyhlz2bflmg204ceprgcsfzhhqofsw0k",
+  "links": {
+   "liked": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13cytyhlz2bflmg204ceprgcsfzhhqofsw0k/@liked?alt\u003djson",
+     "type": "application/json",
+     "count": 0
+    }
+   ],
+   "alternate": [
+    {
+     "href": "http://www.google.com/buzz/112995641975375522142/NqjGk8YN83A",
+     "type": "text/html"
+    }
+   ],
+   "replies": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13cytyhlz2bflmg204ceprgcsfzhhqofsw0k/@comments?alt\u003djson",
+     "type": "application/json",
+     "count": 0,
+     "updated": "2010-12-04T16:12:42.015Z"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13cytyhlz2bflmg204ceprgcsfzhhqofsw0k?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  },
+  "actor": {
+   "id": "112995641975375522142",
+   "name": "uTestBuzzAPI Tester3",
+   "profileUrl": "http://www.google.com/profiles/112995641975375522142",
+   "thumbnailUrl": ""
+  },
+  "verbs": [
+   "post"
+  ],
+  "object": {
+   "type": "note",
+   "content": "Bzz Buz with attachement via JSON!",
+   "originalContent": "Bzz Buz with attachement via JSON!",
+   "links": {
+    "alternate": [
+     {
+      "href": "http://www.google.com/buzz/112995641975375522142/NqjGk8YN83A",
+      "type": "text/html"
+     }
+    ]
+   },
+   "attachments": [
+    {
+     "type": "photo-album",
+     "title": "2010-12-04 (1)",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://picasaweb.google.com/112995641975375522142/2010120404?authkey\u003dGv1sRgCL761YqeyZXydA",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    {
+     "type": "photo",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://picasaweb.google.com/112995641975375522142/2010120404?authkey\u003dGv1sRgCL761YqeyZXydA#5546860759029118018",
+        "type": "text/html"
+       }
+      ],
+      "preview": [
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpoeMh79EI%2FAAAAAAAAAHY%2Fb4IFk2iLr90%2Fs72%2F.png",
+        "type": "image/jpeg"
+       },
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpoeMh79EI%2FAAAAAAAAAHY%2Fb4IFk2iLr90%2Fs144%2F.png",
+        "type": "image/jpeg"
+       },
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTPpoeMh79EI%2FAAAAAAAAAHY%2Fb4IFk2iLr90%2Fs288%2F.png",
+        "type": "image/jpeg"
+       }
+      ],
+      "enclosure": [
+       {
+        "href": "http://lh6.ggpht.com/_Mvy_RHGNm5Q/TPpoeMh79EI/AAAAAAAAAHY/b4IFk2iLr90/.png",
+        "type": "image/jpeg"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "source": {
+   "title": "OACurl"
+  },
+  "visibility": {
+   "entries": [
+    {
+     "id": "G:@me:@public",
+     "title": "Public"
+    }
+   ]
+  }
+ }
+}
+<?xml version="1.0" encoding="UTF-8"?><errors xmlns="http://schemas.google.com/g/2005"><error><domain>GData</domain><code>invalid</code><location type="header">Authorization</location><internalReason>Attempting to access self view of a different user.</internalReason></error></errors><?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Bzz! Bzz!</title>
+ <published>2010-12-12T22:04:41.000Z</published>
+ <updated>2010-12-12T22:04:41.250Z</updated>
+ <id>tag:google.com,2010:buzz:z13eepzjnvjrutao504ceprgcsfzhhqofsw0k</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/PHGJDjnHk6P"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13eepzjnvjrutao504ceprgcsfzhhqofsw0k?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13eepzjnvjrutao504ceprgcsfzhhqofsw0k/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:04:41.250Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Bzz! Bzz!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Bzz! Bzz!</content>
+  <buzz:original-content type="text">Bzz! Bzz!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/PHGJDjnHk6P"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13eepzjnvjrutao504ceprgcsfzhhqofsw0k/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with an image!</title>
+ <published>2010-12-12T22:04:53.000Z</published>
+ <updated>2010-12-12T22:04:53.332Z</updated>
+ <id>tag:google.com,2010:buzz:z13xfvuiyvi0z3ctx22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/BFVmbWwLPT7"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13xfvuiyvi0z3ctx22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13xfvuiyvi0z3ctx22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:04:53.332Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with an image!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with an image!</content>
+  <buzz:original-content type="text">Post with an image!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/BFVmbWwLPT7"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://www.google.com/intl/en_ALL/images/srpr/logo1w.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fwww.google.com%2Fintl%2Fen_ALL%2Fimages%2Fsrpr%2Flogo1w.png"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13xfvuiyvi0z3ctx22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with a video!</title>
+ <published>2010-12-12T22:05:20.000Z</published>
+ <updated>2010-12-12T22:05:20.770Z</updated>
+ <id>tag:google.com,2010:buzz:z13hftewcub5xlid022phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/6Rp8gtQ5gjj"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13hftewcub5xlid022phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13hftewcub5xlid022phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:05:20.770Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with a video!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with a video!</content>
+  <buzz:original-content type="text">Post with a video!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/6Rp8gtQ5gjj"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+   <title>Parisian Love</title>
+   <content type="html">An American finds love in Paris. Watch more Search Stories by Google at http://youtube.com/searchstories
+
+Search On.</content>
+   <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=nnsSUqgkDwU"/>
+   <link rel="alternate" type="application/x-shockwave-flash" href="http://www.youtube.com/v/nnsSUqgkDwU&amp;hl=en&amp;fs=1&amp;autoplay=1"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Fytimg.googleusercontent.com%2Fvi%2FnnsSUqgkDwU%2Fdefault.jpg"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13hftewcub5xlid022phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with photo album!</title>
+ <published>2010-12-12T22:05:36.000Z</published>
+ <updated>2010-12-12T22:05:36.891Z</updated>
+ <id>tag:google.com,2010:buzz:z12gvhyotxatcr3nl22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/KvJwjH6PDmr"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12gvhyotxatcr3nl22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12gvhyotxatcr3nl22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:05:36.891Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with photo album!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with photo album!</content>
+  <buzz:original-content type="text">Post with photo album!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/KvJwjH6PDmr"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>Vegas Weekend</title>
+   <content type="html">A few shots from our trip to Las Vegas.</content>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>Excalibur</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHUPTZ7HI/AAAAAAAAAAs/q-5zQhVMhbo/IMG_4268.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138792704797810"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs72%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs144%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs288%2FIMG_4268.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>FDNY boat in front of the New York - New York casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh3.ggpht.com/_T2gT2CMlMy8/RoBHXfTZ7II/AAAAAAAAAA0/K3Wlse0W-r0/IMG_4297.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138848539372674"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs72%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs144%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs288%2FIMG_4297.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>The Vegas Strip</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHYPTZ7JI/AAAAAAAAAA8/6wn2DIHA6BM/IMG_4276.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138861424274578"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs72%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs144%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs288%2FIMG_4276.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>New York - New York Casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHZPTZ7KI/AAAAAAAAABE/9cM4uBrT2lw/IMG_4262.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138878604143778"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs72%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs144%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs288%2FIMG_4262.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_T2gT2CMlMy8/RoBHZ_TZ7LI/AAAAAAAAABM/_bC2p5nkOjE/IMG_4247.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138891489045682"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs72%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs144%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs288%2FIMG_4247.JPG"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12gvhyotxatcr3nl22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post with photo album with location!</title>
+ <published>2010-12-12T22:05:53.000Z</published>
+ <updated>2010-12-12T22:05:53.249Z</updated>
+ <id>tag:google.com,2010:buzz:z13xtxca1lrhvjxtb22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/7gQFsxeL6Gz"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13xtxca1lrhvjxtb22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13xtxca1lrhvjxtb22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:05:53.249Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post with photo album with location!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post with photo album with location!</content>
+  <buzz:original-content type="text">Post with photo album with location!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/7gQFsxeL6Gz"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>Vegas Weekend</title>
+   <content type="html">A few shots from our trip to Las Vegas.</content>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>Excalibur</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHUPTZ7HI/AAAAAAAAAAs/q-5zQhVMhbo/IMG_4268.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138792704797810"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs72%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs144%2FIMG_4268.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHUPTZ7HI%2FAAAAAAAAAAs%2Fq-5zQhVMhbo%2Fs288%2FIMG_4268.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>FDNY boat in front of the New York - New York casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh3.ggpht.com/_T2gT2CMlMy8/RoBHXfTZ7II/AAAAAAAAAA0/K3Wlse0W-r0/IMG_4297.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138848539372674"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs72%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs144%2FIMG_4297.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh3.ggpht.com%2F_T2gT2CMlMy8%2FRoBHXfTZ7II%2FAAAAAAAAAA0%2FK3Wlse0W-r0%2Fs288%2FIMG_4297.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>The Vegas Strip</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHYPTZ7JI/AAAAAAAAAA8/6wn2DIHA6BM/IMG_4276.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138861424274578"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs72%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs144%2FIMG_4276.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHYPTZ7JI%2FAAAAAAAAAA8%2F6wn2DIHA6BM%2Fs288%2FIMG_4276.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <title>New York - New York Casino</title>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_T2gT2CMlMy8/RoBHZPTZ7KI/AAAAAAAAABE/9cM4uBrT2lw/IMG_4262.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138878604143778"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs72%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs144%2FIMG_4262.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZPTZ7KI%2FAAAAAAAAABE%2F9cM4uBrT2lw%2Fs288%2FIMG_4262.JPG"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_T2gT2CMlMy8/RoBHZ_TZ7LI/AAAAAAAAABM/_bC2p5nkOjE/IMG_4247.JPG"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/picasateam/VegasWeekend#5080138891489045682"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs72%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs144%2FIMG_4247.JPG"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_T2gT2CMlMy8%2FRoBHZ_TZ7LI%2FAAAAAAAAABM%2F_bC2p5nkOjE%2Fs288%2FIMG_4247.JPG"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13xtxca1lrhvjxtb22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+ <georss:point>36.116921 -115.172296</georss:point>
+ <poco:address>
+  <poco:formatted>3557-3575 Las Vegas Blvd S, Las Vegas, NV 89109, USA</poco:formatted>
+ </poco:address>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Private post!</title>
+ <published>2010-12-12T22:06:02.000Z</published>
+ <updated>2010-12-12T22:06:02.179Z</updated>
+ <id>tag:google.com,2010:buzz:z13mzrebavnltvadn22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/9ZgE43Rhqkg"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13mzrebavnltvadn22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13mzrebavnltvadn22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:06:02.179Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Private post!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Private post!</content>
+  <buzz:original-content type="text">Private post!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/9ZgE43Rhqkg"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:112995641975375522142:13</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/112995641975375522142/@groups/G:112995641975375522142:13?alt=atom</uri>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13mzrebavnltvadn22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Go Redsox!</title>
+ <published>2010-12-12T22:06:10.000Z</published>
+ <updated>2010-12-12T22:06:11.140Z</updated>
+ <id>tag:google.com,2010:buzz:z135stcizlmfy3d3s22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/M7wJqiTq2XU"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z135stcizlmfy3d3s22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z135stcizlmfy3d3s22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:06:11.140Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Go Redsox!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Go Redsox!</content>
+  <buzz:original-content type="text">Go Redsox!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/M7wJqiTq2XU"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z135stcizlmfy3d3s22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+ <georss:point>42.370498 -71.083603</georss:point>
+ <poco:address>
+  <poco:formatted>83 5th St, Cambridge, MA 02141, USA</poco:formatted>
+ </poco:address>
+</entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>I am at Google Boston!</title>
+ <published>2010-12-12T22:06:21.000Z</published>
+ <updated>2010-12-12T22:06:21.890Z</updated>
+ <id>tag:google.com,2010:buzz:z12vvtwgoyrxjf33x22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/MvdtEehidsC"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12vvtwgoyrxjf33x22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12vvtwgoyrxjf33x22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:06:21.890Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">I am at Google Boston!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">I am at Google Boston!</content>
+  <buzz:original-content type="text">I am at Google Boston!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/MvdtEehidsC"/>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z12vvtwgoyrxjf33x22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+ <georss:featureName>Google Cambridge</georss:featureName>
+</entry>
+
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+<style><!--
+body {font-family: arial,sans-serif}
+div.nav {margin-top: 1ex}
+div.nav A {font-size: 10pt; font-family: arial,sans-serif}
+span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}
+div.nav A,span.big {font-size: 12pt; color: #0000cc}
+div.nav A {font-size: 10pt; color: black}
+A.l:link {color: #6f6f6f}
+A.u:link {color: green}
+//--></style>
+<script><!--
+var rc=502;
+//-->
+</script>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap>
+<b><font face=times color=#0039b6 size=10>G</font><font face=times color=#c41200 size=10>o</font><font face=times color=#f3c518 size=10>o</font><font face=times color=#0039b6 size=10>g</font><font face=times color=#30a72f size=10>l</font><font face=times color=#c41200 size=10>e</font>&nbsp;&nbsp;</b>
+<td>&nbsp;</td></tr>
+<tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr>
+<tr><td>&nbsp;</td></tr></table>
+<blockquote>
+<H1>Server Error</H1>
+The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.
+
+<p>
+</blockquote>
+<table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table>
+</body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<entry gd:kind="buzz#activity" xmlns="http://www.w3.org/2005/Atom" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:buzz="http://schemas.google.com/buzz/2010" xmlns:crosspost="http://purl.org/syndication/cross-posting" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:poco="http://portablecontacts.net/ns/1.0" xmlns:thr="http://purl.org/syndication/thread/1.0">
+ <title>Post several attacheds photos!</title>
+ <published>2010-12-12T22:07:44.000Z</published>
+ <updated>2010-12-12T22:07:44.290Z</updated>
+ <id>tag:google.com,2010:buzz:z13kin0pqvmlh50th22phv2a2zvfhp2yb04</id>
+ <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/8XqHPHPTPg3"/>
+ <link rel="self" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13kin0pqvmlh50th22phv2a2zvfhp2yb04?alt=atom"/>
+ <link rel="replies" type="application/atom+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13kin0pqvmlh50th22phv2a2zvfhp2yb04/@comments?alt=atom" thr:count="0" thr:updated="2010-12-12T22:07:44.290Z"/>
+ <author>
+  <poco:id>112995641975375522142</poco:id>
+  <poco:photoUrl/>
+  <name>uTestBuzzAPI Tester3</name>
+  <uri>http://www.google.com/profiles/112995641975375522142</uri>
+  <link rel="photo" type="image/jpeg" href=""/>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+ </author>
+ <content type="html">Post several attacheds photos!</content>
+ <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+ <activity:object>
+  <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+  <content type="html">Post several attacheds photos!</content>
+  <buzz:original-content type="text">Post several attacheds photos!</buzz:original-content>
+  <link rel="alternate" type="text/html" href="http://www.google.com/buzz/112995641975375522142/8XqHPHPTPg3"/>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo-album</activity:object-type>
+   <title>My uploaded photos</title>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh5.ggpht.com/_Mvy_RHGNm5Q/TGhZP_JZ6tI/AAAAAAAAACM/ynzfrs_eV_c/.png"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE#5505748675644222162"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs72%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs144%2F.png"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh5.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZP_JZ6tI%2FAAAAAAAAACM%2Fynzfrs_eV_c%2Fs288%2F.png"/>
+  </buzz:attachment>
+  <buzz:attachment>
+   <activity:object-type>http://activitystrea.ms/schema/1.0/photo</activity:object-type>
+   <link rel="enclosure" type="image/jpeg" href="http://lh6.ggpht.com/_Mvy_RHGNm5Q/TGhZezNq_dI/AAAAAAAAACQ/2MlE59VjNg0/.jpg"/>
+   <link rel="alternate" type="text/html" href="http://picasaweb.google.com/112995641975375522142/2010081505?authkey=Gv1sRgCMSSgNDIiJGC5QE#5505748930138930642"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs72%2F.jpg"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs144%2F.jpg"/>
+   <link rel="preview" type="image/jpeg" href="http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;resize_h=100&amp;url=http%3A%2F%2Flh6.ggpht.com%2F_Mvy_RHGNm5Q%2FTGhZezNq_dI%2FAAAAAAAAACQ%2F2MlE59VjNg0%2Fs288%2F.jpg"/>
+  </buzz:attachment>
+ </activity:object>
+ <source>
+  <activity:service>
+   <title>OACurl</title>
+  </activity:service>
+ </source>
+ <buzz:visibility>
+  <buzz:aclentry type="group">
+   <poco:id>G:@me:@public</poco:id>
+   <uri>https://www.googleapis.com/buzz/v1/people/@me/@groups/G:@me:@public?alt=atom</uri>
+   <poco:name>Public</poco:name>
+  </buzz:aclentry>
+ </buzz:visibility>
+ <link rel="http://schemas.google.com/buzz/2010#liked" type="application/poco+xml" href="https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13kin0pqvmlh50th22phv2a2zvfhp2yb04/@liked?alt=atom" buzz:count="0"/>
+</entry>
+{
+ "data": {
+  "kind": "buzz#activity",
+  "title": "Bzz Buz with attachement via JSON!",
+  "published": "2010-12-12T22:07:52.000Z",
+  "updated": "2010-12-12T22:07:52.506Z",
+  "id": "tag:google.com,2010:buzz:z13du3bx3oedfv3in04ceprgcsfzhhqofsw0k",
+  "links": {
+   "liked": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13du3bx3oedfv3in04ceprgcsfzhhqofsw0k/@liked?alt\u003djson",
+     "type": "application/json",
+     "count": 0
+    }
+   ],
+   "alternate": [
+    {
+     "href": "http://www.google.com/buzz/112995641975375522142/cJzBDix2kjC",
+     "type": "text/html"
+    }
+   ],
+   "replies": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13du3bx3oedfv3in04ceprgcsfzhhqofsw0k/@comments?alt\u003djson",
+     "type": "application/json",
+     "count": 0,
+     "updated": "2010-12-12T22:07:52.506Z"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://www.googleapis.com/buzz/v1/activities/112995641975375522142/@self/B:z13du3bx3oedfv3in04ceprgcsfzhhqofsw0k?alt\u003djson",
+     "type": "application/json"
+    }
+   ]
+  },
+  "actor": {
+   "id": "112995641975375522142",
+   "name": "uTestBuzzAPI Tester3",
+   "profileUrl": "http://www.google.com/profiles/112995641975375522142",
+   "thumbnailUrl": ""
+  },
+  "verbs": [
+   "post"
+  ],
+  "object": {
+   "type": "note",
+   "content": "Bzz Buz with attachement via JSON!",
+   "originalContent": "Bzz Buz with attachement via JSON!",
+   "links": {
+    "alternate": [
+     {
+      "href": "http://www.google.com/buzz/112995641975375522142/cJzBDix2kjC",
+      "type": "text/html"
+     }
+    ]
+   },
+   "attachments": [
+    {
+     "type": "photo-album",
+     "title": "2010-12-12 (1)",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://picasaweb.google.com/112995641975375522142/2010121202?authkey\u003dGv1sRgCMCIh8vnjsGLigE",
+        "type": "text/html"
+       }
+      ]
+     }
+    },
+    {
+     "type": "photo",
+     "links": {
+      "alternate": [
+       {
+        "href": "http://picasaweb.google.com/112995641975375522142/2010121202?authkey\u003dGv1sRgCMCIh8vnjsGLigE#5549920963083155970",
+        "type": "text/html"
+       }
+      ],
+      "preview": [
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh4.ggpht.com%2F_Mvy_RHGNm5Q%2FTQVHthAQugI%2FAAAAAAAAAHo%2F1MuD_233spA%2Fs72%2F.png",
+        "type": "image/jpeg"
+       },
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh4.ggpht.com%2F_Mvy_RHGNm5Q%2FTQVHthAQugI%2FAAAAAAAAAHo%2F1MuD_233spA%2Fs144%2F.png",
+        "type": "image/jpeg"
+       },
+       {
+        "href": "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container\u003dfocus&gadget\u003da&resize_h\u003d100&url\u003dhttp%3A%2F%2Flh4.ggpht.com%2F_Mvy_RHGNm5Q%2FTQVHthAQugI%2FAAAAAAAAAHo%2F1MuD_233spA%2Fs288%2F.png",
+        "type": "image/jpeg"
+       }
+      ],
+      "enclosure": [
+       {
+        "href": "http://lh4.ggpht.com/_Mvy_RHGNm5Q/TQVHthAQugI/AAAAAAAAAHo/1MuD_233spA/.png",
+        "type": "image/jpeg"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "source": {
+   "title": "OACurl"
+  },
+  "visibility": {
+   "entries": [
+    {
+     "id": "G:@me:@public",
+     "title": "Public"
+    }
+   ]
+  }
+ }
+}
+<?xml version="1.0" encoding="UTF-8"?><errors xmlns="http://schemas.google.com/g/2005"><error><domain>GData</domain><code>invalid</code><location type="header">Authorization</location><internalReason>Attempting to access self view of a different user.</internalReason></error></errors>

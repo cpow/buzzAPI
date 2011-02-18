@@ -1,0 +1,7 @@
+https://www.googleapis.com/buzz/v1partners/people/@me/@self?prettyprint=true
+https://www.googleapis.com/buzz/v1partners/people/sami.shalabi/@self?prettyprint=true
+https://www.googleapis.com/buzz/v1partners/people/sami.shalabi/@groups/@followers?prettyprint=true
+https://www.googleapis.com/buzz/v1partners/people/sami.shalabi/@groups/@following?prettyprint=true
+https://www.googleapis.com/buzz/v1partners/people/@me/@groups/@blocked?prettyprint=true
+https://www.googleapis.com/buzz/v1partners/people/search?prettyprint=true&q=Buzz
+https://www.googleapis.com/buzz/v1partners/people/@me/@groups?prettyprint=true
